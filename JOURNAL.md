@@ -6,11 +6,11 @@ I started working on my hackpad after days of procrastenation. I joined the call
 
 I completed my schematic for the hackpad but had to take a break due to exams coming up in the future
 
-#Saturday June 21
+# Saturday June 21
 
 I completed my pcb after conferring with fellow hack club members about it as I found it a challenge. I felt very proud odf htis moment as I am a begginer to hardware projects
 
-#Saturday June 28
+# Saturday June 28
 
 I completed my CAD and fimrware which took some time as I had never built a hackpad before. This being my first ever hardware project I was ery happy to complete it and hope to recieve the full four points for highway. 
 
