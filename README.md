@@ -7,7 +7,7 @@ A custom 4-button mechanical keyboard designed for soccer enthusiasts and gamers
 ## Images
 
 ### Case (3D Printed)
-![Case Render](assets/CAse.png)
+![Case Render](assets/CASE.png)
 *3D printed case for the hackpad.*
 
 ### Schematic
