@@ -22,24 +22,16 @@ A custom 4-button mechanical keyboard designed for soccer enthusiasts and gamers
 
 ---
 
-## 🛠️ Bill of Materials (BOM)
-
-| Item                | Quantity | Example Part/Notes                | Est. Price (USD) |
-|---------------------|----------|-----------------------------------|------------------|
-| Microcontroller     | 1        | Raspberry Pi Pico (clone)         | $4.00            |
-| Mechanical Switches | 4        | MX-compatible (generic)           | $2.00            |
-| Keycaps             | 4        | MX-compatible (blank/generic)     | $1.50            |
-| Diodes (1N4148)     | 4        | For switch matrix (if needed)     | $0.20            |
-| PCB                 | 1        | Custom, JLCPCB (small batch)      | $2.00            |
-| 3D Printed Case     | 1        | PLA, self-printed or service      | $2.00            |
-| Header Pins         | 1 set    | For MCU socketing                 | $0.30            |
-| Wires/Sockets       | as needed| For connections                   | $0.50            |
-| Rubber Feet         | 4        | Optional, for stability           | $0.30            |
-| Screws/Standoffs    | as needed| For case assembly                 | $0.50            |
-
-**Estimated Total: $13.30**
-
-*Prices are approximate and may vary by region and supplier. Buying in bulk or using recycled parts can further reduce costs.*
-
----
-
+##  Bill of Materials
+| Component | Description | Quantity | Budget Option | Cost | Supplier Links |
+|-----------|-------------|----------|---------------|------|----------------|
+| **XIAO RP2040** | Microcontroller Board | 1 | Generic/Clone version | $6.50 | [AliExpress](https://www.aliexpress.com/item/1005003928558306.html) \| [Banggood](https://www.banggood.com/XIAO-RP2040-p-1914578.html) |
+| **Push Button Switches** | 6x6mm Tactile Switches | 5 | Bulk pack (50pcs) | $2.00 | [AliExpress](https://www.aliexpress.com/item/32697109472.html) |
+| **Rotary Encoder** | KY-040 Rotary Encoder | 1 | Basic module | $1.50 | [AliExpress](https://www.aliexpress.com/item/1859136395.html) |
+| **Resistors** | 5kΩ Resistors | 2 | From resistor kit/bulk | $0.20 | [AliExpress](https://www.aliexpress.com/item/32952657927.html) |
+| **Custom PCB** | 2-layer PCB | 1 | JLCPCB 5pcs minimum | $2.00 | [JLCPCB](https://jlcpcb.com/) (with coupon) |
+| **Pin Headers** | Female headers | 1 set | Generic 40-pin strip | $0.50 | [AliExpress](https://www.aliexpress.com/item/32724478308.html) |
+| **DIY Cardboard** | Cardboard + hot glue | $0.00 | Use shipping boxes you have |
+| **Acrylic Sheets** | Laser-cut or hand-cut | $3.00 | [Amazon acrylic sheets](https://www.amazon.com/dp/B01M0CCQPB) |
+| **USB-C Cable** | Programming cable | $1.50 | [AliExpress](https://www.aliexpress.com/item/1005001621837476.html) |
+| **M3 Screws** | Case screws (if needed) | $1.00 | [AliExpress hardware kit](https://www.aliexpress.com/item/32967909123.html) |
