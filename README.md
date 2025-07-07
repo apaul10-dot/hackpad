@@ -14,11 +14,11 @@ A custom 4-button mechanical keyboard designed for soccer enthusiasts and gamers
 
 
 ### Schematic
-![Schematic](assets/schematic.png)
+![Schematic](assets/schematic_updated.png)
 
 
 ### PCB Layout
-![PCB Layout](assets/pcb.png)
+![PCB Layout](assets/pcb_updated.png)
 
 ---
 
