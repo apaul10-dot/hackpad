@@ -23,15 +23,12 @@ A custom 4-button mechanical keyboard designed for soccer enthusiasts and gamers
 ---
 
 ##  Bill of Materials
-| **XIAO RP2040** | Microcontroller Board | 1 | Generic/Clone version | $6.50 | [AliExpress](https://www.aliexpress.com/item/1005003928558306.html) \| [Banggood](https://www.banggood.com/XIAO-RP2040-p-1914578.html) |
-| **Push Button Switches** | 6x6mm Tactile Switches | 5 | Bulk pack (50pcs) | $2.00 | [AliExpress](https://www.aliexpress.com/item/32697109472.html) |
-| **Rotary Encoder** | KY-040 Rotary Encoder | 1 | Basic module | $1.50 | [AliExpress](https://www.aliexpress.com/item/1859136395.html) |
-| **Resistors** | 5kΩ Resistors | 2 | From resistor kit/bulk | $0.20 | [AliExpress](https://www.aliexpress.com/item/32952657927.html) |
-| **Custom PCB** | 2-layer PCB | 1 | JLCPCB 5pcs minimum | $2.00 | [JLCPCB](https://jlcpcb.com/) (with coupon) |
-| **Pin Headers** | Female headers | 1 set | Generic 40-pin strip | $0.50 | [AliExpress](https://www.aliexpress.com/item/32724478308.html) |
-| **DIY Cardboard** | Cardboard + hot glue | $0.00 | Use shipping boxes you have |
-| **Acrylic Sheets** | Laser-cut or hand-cut | $3.00 | [Amazon acrylic sheets](https://www.amazon.com/dp/B01M0CCQPB) |
-| **3D Print Service** | Online printing service | $4.00 | [Craftcloud](https://craftcloud3d.com/) basic PLA |
-| **USB-C Cable** | Programming cable | $1.50 | [AliExpress](https://www.aliexpress.com/item/1005001621837476.html) |
-| **M3 Screws** | Case screws (if needed) | $1.00 | [AliExpress hardware kit](https://www.aliexpress.com/item/32967909123.html) |
+| U1 | XIAO RP2040 Microcontroller | 1 | DIP | [Seeed Studio](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) \| [Adafruit](https://www.adafruit.com/product/4900) | Seeed Studio XIAO RP2040 |
+| SW1-SW6 | Tactile Push Button Switch | 6 | SW_Push | [Adafruit](https://www.adafruit.com/product/367) \| [SparkFun](https://www.sparkfun.com/products/97) | 6x6mm momentary pushbutton switches |
+| SW4 | Rotary Encoder with Switch | 1 | RotaryEncoder_Switch | [Adafruit](https://www.adafruit.com/product/377) \| [SparkFun](https://www.sparkfun.com/products/9117) | EC11 type rotary encoder with integrated pushbutton |
+| Enclosure | 3D Printed Housing | 1 | PLA/PETG | [Thingiverse](https://www.thingiverse.com) \| [Printables](https://www.printables.com) | Orange colored housing as shown - STL files needed |
+| PCB | Custom PCB | 1 | FR4 | [JLCPCB](https://jlcpcb.com) \| [PCBWay](https://www.pcbway.com) | Custom designed PCB - Gerber files needed |
+| Screws | Machine screws | 4-8 | M3 x 6mm | [McMaster-Carr](https://www.mcmaster.com) \| [Amazon](https://www.amazon.com/s?k=M3+screws) | For PCB mounting and enclosure assembly |
+| Standoffs | PCB Standoffs | 4 | M3 x 5mm | [McMaster-Carr](https://www.mcmaster.com) \| [Amazon](https://www.amazon.com/s?k=M3+standoffs) | To mount PCB in enclosure |
+
 
