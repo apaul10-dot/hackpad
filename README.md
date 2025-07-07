@@ -7,7 +7,7 @@ A custom 4-button mechanical keyboard designed for soccer enthusiasts and gamers
 ## Images
 
 ### Assembly
-![Assembly Picture] (assets/assembly.png)
+![Assembly Picture](assets/assembly.png)
 
 ### Case (3D Printed)
 ![Case Render](assets/CASE.png)
