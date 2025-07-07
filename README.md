@@ -6,17 +6,19 @@ A custom 4-button mechanical keyboard designed for soccer enthusiasts and gamers
 
 ## Images
 
+### Assembly
+! [Assembly Picture] (assets/assembly.png)
+
 ### Case (3D Printed)
 ![Case Render](assets/CASE.png)
-*3D printed case for the hackpad.*
+
 
 ### Schematic
 ![Schematic](assets/schematic.png)
-*Circuit schematic (exported from KiCad).*
+
 
 ### PCB Layout
 ![PCB Layout](assets/pcb.png)
-*PCB layout (exported from KiCad).*
 
 ---
 
