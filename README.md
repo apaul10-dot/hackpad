@@ -1,6 +1,6 @@
 # FootyPad
 
-A custom 4-button mechanical keyboard designed for soccer enthusiasts and gamers. This hackpad features soccer-themed keymaps and macros, perfect for soccer games, streaming, or just showing your love for the beautiful game.
+This hackpad is for soccer players and gamers, something that I am. It is desinged for soccer related games such as FIFA in which the buttons can be used for functions such as moving and scoring goals. I found my inspiration for this hackpad through my love of soccer and the game of FIFA. 
 
 ---
 
